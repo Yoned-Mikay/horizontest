@@ -1,0 +1,66 @@
+{
+  "name": "Serene Horizon",
+  "description": "An epic scenery",
+  "version": "1.2",
+  "authors": [
+    {
+      "name": "Madhav",
+      "id": "757530324686340197"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#f1f1f1"],
+    "HEADER_SECONDARY": ["#c8c8c8"],
+    "TEXT_NORMAL": ["#FBFBFB"],
+    "TEXT_MUTED": ["#b1b1b1"],
+    "INTERACTIVE_NORMAL": ["#8961ba"],
+    "INTERACTIVE_HOVER": ["#dcddde"],
+    "INTERACTIVE_ACTIVE": ["#dc74e3"],
+    "INTERACTIVE_MUTED": ["#bfb9ff"],
+    "BACKGROUND_PRIMARY": ["#120212"],
+    "BACKGROUND_SECONDARY": ["#120212"],
+    "BACKGROUND_SECONDARY_ALT": ["#120212"],
+    "BACKGROUND_TERTIARY": ["#120212"],
+    "BACKGROUND_ACCENT": ["#120212"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#120212"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#120212"],
+    "BACKGROUND_MESSAGE_HOVER": ["rgba(255, 255, 255, 0.02)"],
+    "BACKGROUND_MODIFIER_HOVER": ["rgba(255, 255, 255, 0.02)"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["rgba(255, 255, 255, 0.03)"],
+    "BACKGROUND_MODIFIER_SELECTED": ["rgba(255, 255, 255, 0.04)"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#111111"],
+    "CHANNELS_DEFAULT": ["#c8c8c8"],
+    "TEXT_LINK": ["#dc74e3"],
+    "SCROLLBAR_AUTO_THUMB": ["#2a1858"],
+    "SCROLLBAR_AUTO_TRACK": ["rgba(0, 0, 0, 0.1)"]
+  },
+  "rawColors": {
+    "PRIMARY_DARK": "#747474",
+    "PRIMARY_DARK_100": "#FFFFFF",
+    "PRIMARY_DARK_200": "#FFFFFF",
+    "PRIMARY_DARK_300": "#B6B6B6",
+    "PRIMARY_DARK_400": "#d894eb",
+    "PRIMARY_DARK_500": "#dc74e3",
+    "PRIMARY_DARK_600": "#120212",
+    "PRIMARY_DARK_700": "#101010",
+    "BRAND_NEW": "#dc74e3",
+    "STATUS_RED": "#dc74e3",
+    "STATUS_GREEN_600": "#dc74e3"
+  },
+  "background": {
+    "blur": 0.1,
+    "url": "https://imgur.com/download/uhYpEkn/undefined",
+    "alpha": 0.4
+  },
+  "plus": {
+    "version": "0",
+    "customOverlays": true,
+    "icons": {
+      "ic_radio_circle_checked": "#dc74e3",
+      "ic_radio_circle_checked__overlay": "#FFFFFF",
+      "ic_selection_checked_24px": "#dc74e3",
+      "ic_selection_checked_24px__overlay": "#FFFFFF"
+    }
+  },
+  "spec": 2
+}
