@@ -1,6 +1,6 @@
 {
   "name": "Serene Horizon",
-  "description": "An epic scenery",
+  "description": "An epic scenery.",
   "version": "1.2",
   "authors": [
     {
@@ -12,6 +12,7 @@
     "HEADER_PRIMARY": ["#f1f1f1"],
     "HEADER_SECONDARY": ["#c8c8c8"],
     "TEXT_NORMAL": ["#FBFBFB"],
+    "TEXT_PRIMARY": ["#FFFFFF"],
     "TEXT_MUTED": ["#b1b1b1"],
     "INTERACTIVE_NORMAL": ["#8961ba"],
     "INTERACTIVE_HOVER": ["#dcddde"],
@@ -19,18 +20,20 @@
     "INTERACTIVE_MUTED": ["#bfb9ff"],
     "BACKGROUND_PRIMARY": ["#120212"],
     "BACKGROUND_SECONDARY": ["#120212"],
-    "BACKGROUND_SECONDARY_ALT": ["#120212"],
     "BACKGROUND_TERTIARY": ["#120212"],
     "BACKGROUND_ACCENT": ["#120212"],
     "BACKGROUND_MOBILE_PRIMARY": ["#120212"],
     "BACKGROUND_MOBILE_SECONDARY": ["#120212"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#111111"],
+    "CHANNELS_DEFAULT": ["#c8c8c8"],
+    "TEXT_LINK": ["#dc74e3"],
+    "BUTTON_OUTLINE_BRAND_BACKGROUND": ["#120212"],
+    "BUTTON_OUTLINE_BRAND_BORDER": ["#8961ba"],
     "BACKGROUND_MESSAGE_HOVER": ["rgba(255, 255, 255, 0.02)"],
     "BACKGROUND_MODIFIER_HOVER": ["rgba(255, 255, 255, 0.02)"],
     "BACKGROUND_MODIFIER_ACTIVE": ["rgba(255, 255, 255, 0.03)"],
     "BACKGROUND_MODIFIER_SELECTED": ["rgba(255, 255, 255, 0.04)"],
-    "CHANNELTEXTAREA_BACKGROUND": ["#111111"],
-    "CHANNELS_DEFAULT": ["#c8c8c8"],
-    "TEXT_LINK": ["#dc74e3"],
+    "SCROLLBAR_THIN_TRACK": ["transparent"],
     "SCROLLBAR_AUTO_THUMB": ["#2a1858"],
     "SCROLLBAR_AUTO_TRACK": ["rgba(0, 0, 0, 0.1)"]
   },
@@ -45,7 +48,10 @@
     "PRIMARY_DARK_700": "#101010",
     "BRAND_NEW": "#dc74e3",
     "STATUS_RED": "#dc74e3",
-    "STATUS_GREEN_600": "#dc74e3"
+    "STATUS_GREEN_600": "#dc74e3",
+    "CHAT_BACKGROUND": ["#2e3338"],
+    "MENTION_BACKGROUND": ["#dc74e3A6"],
+    "MENTION_FOREGROUND": ["#ffffff"]
   },
   "background": {
     "blur": 0.1,
@@ -59,7 +65,13 @@
       "ic_radio_circle_checked": "#dc74e3",
       "ic_radio_circle_checked__overlay": "#FFFFFF",
       "ic_selection_checked_24px": "#dc74e3",
-      "ic_selection_checked_24px__overlay": "#FFFFFF"
+      "ic_selection_checked_24px__overlay": "#FFFFFF",
+      "StatusMobileOnline": "#a6d189",
+      "StatusIdle": "#e5c890",
+      "StatusDND": "#e78284",
+      "StatusOffline": "#585666",
+      "StatusOnline": "#a6d189",
+      "StatusStreaming": "#ca9ee6"
     }
   },
   "spec": 2
