@@ -40,7 +40,7 @@
     "BUTTON_OUTLINE_BRAND_BORDER": ["#dc74e3"],
     "BACKGROUND_MENTIONED": ["#dc74e366"],
     "MENTION_BACKGROUND": ["#dc74e3A6"],
-    "MENTION_FOREGROUND": ["#ffffff"]
+    "MENTION_FOREGROUND": ["#120212"]
   },
   "rawColors": {
     "PRIMARY_100": "#f1f1f1",
