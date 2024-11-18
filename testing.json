@@ -81,15 +81,11 @@
       "StatusIdle": "#e5c890",
       "StatusDND": "#e78284",
       "StatusOffline": "#585666",
-      "StatusOnline": "#a6d189",
-      "StatusOffline": "#585666",
-      "StatusDND": "#e78284",
-      "StatusIdle": "#e5c890"
+      "StatusOnline": "#a6d189"
     }
   },
-  "buttonStyles": {
-    "PRIMARY": {
-      "background": "#dc74e3",
+  "buttonStyles": {    "PRIMARY": {
+      "background": "#e6a3e0",  // Lighter shade of primary
       "color": "#FFFFFF",
       "border": "none",
       "hover": {
@@ -98,12 +94,21 @@
       }
     },
     "SECONDARY": {
-      "background": "#120212",
+      "background": "#2a2a2a",  // Lighter shade of secondary
       "color": "#8961ba",
       "border": "1px solid #8961ba",
       "hover": {
         "background": "#c8c8c8",
         "color": "#120212"
+      }
+    },
+    "OUTLINE": {
+      "background": "transparent",
+      "color": "#8961ba",
+      "border": "1px solid #8961ba",
+      "hover": {
+        "background": "#dc74e3A6",
+        "color": "#FFFFFF"
       }
     }
   },
@@ -128,6 +133,12 @@
       "overlay": {
         "background": "rgba(0, 0, 0, 0.5)"
       }
+    },
+    "TOOLTIP": {
+      "background": "#120212",
+      "color": "#FFFFFF",
+      "border": "1px solid #c8c8c8"
     }
   }
 }
+     
