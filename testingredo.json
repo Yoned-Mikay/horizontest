@@ -1,0 +1,78 @@
+{
+  "name": "Serene Horizon",
+  "description": "An epic scenery with serene colors.",
+  "version": "1.2",
+  "authors": [
+    {
+      "name": "Madhav",
+      "id": "757530324686340197"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#f1f1f1"],
+    "HEADER_SECONDARY": ["#c8c8c8"],
+    "TEXT_NORMAL": ["#FBFBFB"],
+    "TEXT_MUTED": ["#b1b1b1"],
+    "INTERACTIVE_NORMAL": ["#8961ba"],
+    "INTERACTIVE_HOVER": ["#dcddde"],
+    "INTERACTIVE_ACTIVE": ["#dc74e3"],
+    "INTERACTIVE_MUTED": ["#bfb9ff"],
+    "BACKGROUND_PRIMARY": ["#120212"],
+    "BACKGROUND_SECONDARY": ["#120212"],
+    "BACKGROUND_TERTIARY": ["#120212"],
+    "BACKGROUND_ACCENT": ["#120212"],
+    "BACKGROUND_FLOATING": ["#120212"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#120212"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#120212"],
+    "BACKGROUND_MESSAGE_HOVER": ["rgba(255, 255, 255, 0.02)"],
+    "BACKGROUND_MODIFIER_HOVER": ["rgba(255, 255, 255, 0.02)"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["rgba(255, 255, 255, 0.03)"],
+    "BACKGROUND_MODIFIER_SELECTED": ["rgba(255, 255, 255, 0.04)"],
+    "BACKGROUND_MODIFIER_ACCENT": ["transparent"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#111111"],
+    "CHANNELS_DEFAULT": ["#c8c8c8"],
+    "TEXT_LINK": ["#dc74e3"]
+  },
+  
+  "rawColors": {
+    "PRIMARY_100": "#f1f1f1",
+    "PRIMARY_200": "#c8c8c8",
+    "PRIMARY_300": "#FBFBFB",
+    "PRIMARY_400": "#b1b1b1",
+    "PRIMARY_500": "#8961ba",
+    "PRIMARY_600": "#dc74e3",
+    "PRIMARY_700": "#120212",
+    "PRIMARY_800": "#ffffff",
+    "BRAND_NEW": "#dc74e3",
+    "STATUS_RED": "#dc74e3",
+    "STATUS_GREEN_600": "#dc74e3"
+  },
+  
+  "plus": {
+    "version": "0",
+    "customOverlays": true,
+    "icons": {
+      "ic_radio_circle_checked": "#AF986B",
+      "ic_radio_circle_checked__overlay": "#FFFFFF",
+      "ic_radio_square_24px": "#AF986B",
+      "ic_radio_square_checked_24px": "#AF986B",
+      "ic_radio_square_checked_24px__overlay": "#FFFFFF",
+      "ic_selection_checked_24px": "#AF986B",
+      "ic_selection_checked_24px__overlay": "#FFFFFF",
+      "StatusMobileOnline": "#a6d189",
+      "StatusIdle": "#e5c890",
+      "StatusDND": "#e78284",
+      "StatusOffline": "#585666",
+      "StatusOnline": "#a6d189",
+      "StatusStreaming": "#ca9ee6"
+    }
+  },
+  
+  "background": {
+    "blur": 0.1,
+    "url": "https://imgur.com/download/uhYpEkn/undefined",
+    "alpha": 0.4
+  },
+  
+  "spec": 2
+}
