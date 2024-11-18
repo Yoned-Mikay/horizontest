@@ -36,9 +36,17 @@
     "BACKGROUND_MENTIONED_HOVER": ["rgba(255, 255, 255, 0.1)"],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#120212"],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#120212"],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": ["#120212"],
     "CHANNEL_ICON": ["#8961ba"],
     "TEXT_PRIMARY": ["#FFFFFF"],
-    "THREAD_CHANNEL_SPINE": ["#dc74e3"]
+    "THREAD_CHANNEL_SPINE": ["#dc74e3"],
+    "CARD_PRIMARY_BG": ["#120212"],
+    "CARD_SECONDARY_BG": ["#120212"],
+    "BG_BASE_PRIMARY": ["#120212"],
+    "BG_BASE_SECONDARY": ["#120212"],
+    "BG_BASE_TERTIARY": ["#120212"],
+    "BACKGROUND_SECONDARY_ALT": ["#120212"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#120212"]
   },
   "rawColors": {
     "PRIMARY_DARK": "#747474",
@@ -74,8 +82,52 @@
       "StatusDND": "#e78284",
       "StatusOffline": "#585666",
       "StatusOnline": "#a6d189",
-      "StatusStreaming": "#ca9ee6"
+      "StatusOffline": "#585666",
+      "StatusDND": "#e78284",
+      "StatusIdle": "#e5c890"
     }
   },
-  "spec": 2
+  "buttonStyles": {
+    "PRIMARY": {
+      "background": "#dc74e3",
+      "color": "#FFFFFF",
+      "border": "none",
+      "hover": {
+        "background": "#dc74e3A6",
+        "color": "#FFFFFF"
+      }
+    },
+    "SECONDARY": {
+      "background": "#120212",
+      "color": "#8961ba",
+      "border": "1px solid #8961ba",
+      "hover": {
+        "background": "#c8c8c8",
+        "color": "#120212"
+      }
+    }
+  },
+  "hoverEffects": {
+    "LINK": {
+      "color": "#dc74e3",
+      "underline": true
+    },
+    "BUTTON": {
+      "scale": 1.05,
+      "transition": "0.3s ease"
+    }
+  },
+  "uiComponents": {
+    "CARD": {
+      "background": "#120212",
+      "border": "1px solid #c8c8c8",
+      "shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
+    },
+    "MODAL": {
+      "background": "#120212",
+      "overlay": {
+        "background": "rgba(0, 0, 0, 0.5)"
+      }
+    }
+  }
 }
