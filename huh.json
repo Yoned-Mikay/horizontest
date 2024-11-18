@@ -40,7 +40,10 @@
     "DIVIDER_STRONG": ["#dc74e3"],
     "DIVIDER_SUBTLE": ["#b1b1b1"],
     "BUTTON_OUTLINE_BRAND_BACKGROUND": ["#120212"],
-    "BUTTON_OUTLINE_BRAND_BORDER": ["#dc74e3"]
+    "BUTTON_OUTLINE_BRAND_BORDER": ["#dc74e3"],
+    "BACKGROUND_MENTIONED": ["#dc74e366"],
+    "MENTION_BACKGROUND": ["#dc74e3A6"],
+    "MENTION_FOREGROUND": ["#ffffff"]
   },
   "rawColors": {
     "PRIMARY_100": "#f1f1f1",
