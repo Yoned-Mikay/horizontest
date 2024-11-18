@@ -1,7 +1,7 @@
 {
   "name": "Serene Horizon",
   "description": "An epic scenery.",
-  "version": "1.2",
+  "version": "1.3",
   "authors": [
     {
       "name": "Madhav",
@@ -12,7 +12,6 @@
     "HEADER_PRIMARY": ["#f1f1f1"],
     "HEADER_SECONDARY": ["#c8c8c8"],
     "TEXT_NORMAL": ["#FBFBFB"],
-    "TEXT_PRIMARY": ["#FFFFFF"],
     "TEXT_MUTED": ["#b1b1b1"],
     "INTERACTIVE_NORMAL": ["#8961ba"],
     "INTERACTIVE_HOVER": ["#dcddde"],
@@ -33,9 +32,13 @@
     "BACKGROUND_MODIFIER_HOVER": ["rgba(255, 255, 255, 0.02)"],
     "BACKGROUND_MODIFIER_ACTIVE": ["rgba(255, 255, 255, 0.03)"],
     "BACKGROUND_MODIFIER_SELECTED": ["rgba(255, 255, 255, 0.04)"],
-    "SCROLLBAR_THIN_TRACK": ["transparent"],
-    "SCROLLBAR_AUTO_THUMB": ["#2a1858"],
-    "SCROLLBAR_AUTO_TRACK": ["rgba(0, 0, 0, 0.1)"]
+    "BACKGROUND_MENTIONED": ["#dc74e3A6"],
+    "BACKGROUND_MENTIONED_HOVER": ["rgba(255, 255, 255, 0.1)"],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#120212"],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#120212"],
+    "CHANNEL_ICON": ["#8961ba"],
+    "TEXT_PRIMARY": ["#FFFFFF"],
+    "THREAD_CHANNEL_SPINE": ["#dc74e3"]
   },
   "rawColors": {
     "PRIMARY_DARK": "#747474",
@@ -59,7 +62,7 @@
     "alpha": 0.4
   },
   "plus": {
-    "version": "0",
+    "version": "1",
     "customOverlays": true,
     "icons": {
       "ic_radio_circle_checked": "#dc74e3",
