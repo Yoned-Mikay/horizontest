@@ -1,7 +1,6 @@
 {
-  "name": "Serene Horizon",
-  "description": "An epic scenery.",
-  "version": "1.3",
+  "name": "Serene Horizon v2.0",
+  "description": "A calm and elegant theme with serene scenery, now using Madhav's palette.",
   "authors": [
     {
       "name": "Madhav",
@@ -9,125 +8,74 @@
     }
   ],
   "semanticColors": {
-    "HEADER_PRIMARY": ["#f1f1f1"],
-    "HEADER_SECONDARY": ["#c8c8c8"],
     "TEXT_NORMAL": ["#FBFBFB"],
+    "TEXT_SECONDARY": ["#c8c8c8"],
+    "TEXT_PRIMARY": ["#f1f1f1"],
     "TEXT_MUTED": ["#b1b1b1"],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#dcddde"],
     "INTERACTIVE_NORMAL": ["#8961ba"],
-    "INTERACTIVE_HOVER": ["#dcddde"],
+    "INTERACTIVE_HOVER": ["#bfb9ff"],
     "INTERACTIVE_ACTIVE": ["#dc74e3"],
-    "INTERACTIVE_MUTED": ["#bfb9ff"],
+    "INTERACTIVE_MUTED": ["#c8c8c8"],
     "BACKGROUND_PRIMARY": ["#120212"],
     "BACKGROUND_SECONDARY": ["#120212"],
     "BACKGROUND_TERTIARY": ["#120212"],
+    "BG_BASE_PRIMARY": ["#120212"],
+    "BG_BASE_SECONDARY": ["#111111"],
+    "BG_BASE_TERTIARY": ["#170217"],
+    "BG_BACKDROP": ["rgba(18, 2, 18, 0.5)"],
     "BACKGROUND_ACCENT": ["#120212"],
+    "BACKGROUND_FLOATING": ["#170217"],
     "BACKGROUND_MOBILE_PRIMARY": ["#120212"],
-    "BACKGROUND_MOBILE_SECONDARY": ["#120212"],
-    "CHANNELTEXTAREA_BACKGROUND": ["#120212"],
-    "CHANNELS_DEFAULT": ["#c8c8c8"],
-    "TEXT_LINK": ["#dc74e3"],
-    "BUTTON_OUTLINE_BRAND_BACKGROUND": ["#120212"],
-    "BUTTON_OUTLINE_BRAND_BORDER": ["#8961ba"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#111111"],
+    "BACKGROUND_NESTED_FLOATING": ["#170217"],
     "BACKGROUND_MESSAGE_HOVER": ["rgba(255, 255, 255, 0.02)"],
     "BACKGROUND_MODIFIER_HOVER": ["rgba(255, 255, 255, 0.02)"],
-    "BACKGROUND_MODIFIER_ACTIVE": ["rgba(255, 255, 255, 0.03)"],
     "BACKGROUND_MODIFIER_SELECTED": ["rgba(255, 255, 255, 0.04)"],
-    "BACKGROUND_MENTIONED": ["#dc74e3A6"],
-    "BACKGROUND_MENTIONED_HOVER": ["rgba(255, 255, 255, 0.1)"],
-    "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#120212"],
-    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#120212"],
-    "REDESIGN_CHAT_INPUT_BACKGROUND": ["#120212"],
-    "CHANNEL_ICON": ["#8961ba"],
-    "TEXT_PRIMARY": ["#FFFFFF"],
-    "THREAD_CHANNEL_SPINE": ["#dc74e3"],
+    "BACKGROUND_MODIFIER_ACCENT": ["transparent"],
+    "TEXT_LINK": ["#dc74e3"],
+    "TEXT_DANGER": ["#e78284"],
+    "CHANNEL_ICON": ["#c8c8c8"],
+    "CHAT_BACKGROUND": ["#120212"],
     "CARD_PRIMARY_BG": ["#120212"],
-    "CARD_SECONDARY_BG": ["#120212"],
-    "BG_BASE_PRIMARY": ["#120212"],
-    "BG_BASE_SECONDARY": ["#120212"],
-    "BG_BASE_TERTIARY": ["#120212"],
-    "BACKGROUND_SECONDARY_ALT": ["#120212"],
-    "BACKGROUND_MODIFIER_ACCENT": ["#120212"]
+    "BACKGROUND_MENTIONED": ["rgba(220, 116, 227, 0.4)"],
+    "MENTION_BACKGROUND": ["rgba(220, 116, 227, 0.6)"],
+    "MENTION_FOREGROUND": ["#FBFBFB"]
   },
   "rawColors": {
-    "PRIMARY_DARK": "#747474",
-    "PRIMARY_DARK_100": "#FFFFFF",
-    "PRIMARY_DARK_200": "#FFFFFF",
-    "PRIMARY_DARK_300": "#B6B6B6",
-    "PRIMARY_DARK_400": "#d894eb",
-    "PRIMARY_DARK_500": "#dc74e3",
-    "PRIMARY_DARK_600": "#120212",
-    "PRIMARY_DARK_700": "#101010",
     "BRAND_NEW": "#dc74e3",
-    "STATUS_RED": "#dc74e3",
-    "STATUS_GREEN_600": "#dc74e3",
-    "CHAT_BACKGROUND": ["#120212"],
-    "MENTION_BACKGROUND": ["#dc74e3A6"],
-    "MENTION_FOREGROUND": ["#ffffff"]
+    "PRIMARY_100": "#f1f1f1",
+    "PRIMARY_200": "#c8c8c8",
+    "PRIMARY_300": "#FBFBFB",
+    "PRIMARY_400": "#b1b1b1",
+    "PRIMARY_500": "#8961ba",
+    "PRIMARY_600": "#dc74e3",
+    "PRIMARY_700": "#120212",
+    "PRIMARY_800": "#ffffff",
+    "STATUS_RED": "#e78284",
+    "STATUS_GREEN_600": "#a6d189",
+    "YELLOW_300": "#e5c890",
+    "PLUM_15": "#8961ba"
+  },
+  "plus": {
+    "version": "0",
+    "customOverlays": true,
+    "icons": {
+      "add": "#8961ba",
+      "close": "#FBFBFB",
+      "ic_settings": "#dc74e3",
+      "ic_send": "#dc74e3",
+      "ic_mention_24px": "#dc74e3",
+      "ic_star_filled": "#bfb9ff",
+      "StatusOnline": "#a6d189",
+      "StatusIdle": "#e5c890",
+      "StatusDND": "#e78284"
+    }
   },
   "background": {
     "blur": 0.1,
     "url": "https://imgur.com/download/uhYpEkn/undefined",
     "alpha": 0.4
   },
-  "plus": {
-    "version": "1",
-    "customOverlays": true,
-    "icons": {
-      "ic_radio_circle_checked": "#dc74e3",
-      "ic_radio_circle_checked__overlay": "#FFFFFF",
-      "ic_selection_checked_24px": "#dc74e3",
-      "ic_selection_checked_24px__overlay": "#FFFFFF",
-      "StatusMobileOnline": "#a6d189",
-      "StatusIdle": "#e5c890",
-      "StatusDND": "#e78284",
-      "StatusOffline": "#585666",
-      "StatusOnline": "#a6d189",
-      "StatusOffline": "#585666",
-      "StatusDND": "#e78284",
-      "StatusIdle": "#e5c890"
-    }
-  },
-  "buttonStyles": {
-    "PRIMARY": {
-      "background": "#dc74e3",
-      "color": "#FFFFFF",
-      "border": "none",
-      "hover": {
-        "background": "#dc74e3A6",
-        "color": "#FFFFFF"
-      }
-    },
-    "SECONDARY": {
-      "background": "#120212",
-      "color": "#8961ba",
-      "border": "1px solid #8961ba",
-      "hover": {
-        "background": "#c8c8c8",
-        "color": "#120212"
-      }
-    }
-  },
-  "hoverEffects": {
-    "LINK": {
-      "color": "#dc74e3",
-      "underline": true
-    },
-    "BUTTON": {
-      "scale": 1.05,
-      "transition": "0.3s ease"
-    }
-  },
-  "uiComponents": {
-    "CARD": {
-      "background": "#120212",
-      "border": "1px solid #c8c8c8",
-      "shadow": "0 4px 8px rgba(0, 0, 0, 0.2)"
-    },
-    "MODAL": {
-      "background": "#120212",
-      "overlay": {
-        "background": "rgba(0, 0, 0, 0.5)"
-      }
-    }
-  }
+  "spec": 2
 }
