@@ -1,6 +1,6 @@
 {
-    "name": "Purple Serenity",
-    "description": "Purple Serenity blends bright pinks & dark purples for a relaxing, elegant atmosphere.",
+    "name": "Purple Testing",
+    "description": "Testing Area",
     "version": "2.1.0",
     "authors": [
         {
@@ -59,7 +59,7 @@
         "PRIMARY_600": "#d261d8",
         "PRIMARY_700": "#120212",
         "PRIMARY_800": "#ffffff",
-        "PLUM_10": "#ffffff",
+        "PLUM_10": "#e3e3e3",
         "PLUM_24": "#d261d8",
         "PLUM_11": "#1a091a",
         "PLUM_15": "#261426",
