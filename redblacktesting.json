@@ -1,118 +1,129 @@
 {
-    "name": "Red Serenity",
-    "description": "Red Serenity blends vivid reds and deep blacks for a bold and striking atmosphere.",
-    "version": "2.1.0",
+    "name": "Sakura Serenity",
+    "description": "A harmonious blend of vivid reds, serene pinks, and deep blacks inspired by Sakura Tree and Red Serenity.",
+    "version": "1.1.0",
     "authors": [
+        {
+            "name": ".Princeblueblood",
+            "id": "131929165292240896"
+        },
         {
             "name": "Cyclone",
             "id": "605791172530536449"
         }
     ],
     "semanticColors": {
-        "HEADER_PRIMARY": ["#f8f8f8"],
-        "HEADER_SECONDARY": ["#d1d1d1"],
-        "TEXT_NORMAL": ["#FFFFFF"],
-        "TEXT_MUTED": ["#c7c7c7"],
-        "INTERACTIVE_NORMAL": ["#e51c23"],
-        "INTERACTIVE_HOVER": ["#ff3030"],
-        "INTERACTIVE_ACTIVE": ["#FFFFFF"],
-        "INTERACTIVE_MUTED": ["#ff6161"],
-        "BACKGROUND_PRIMARY": ["#0b0b0b"],
-        "CARD_PRIMARY_BG": ["#0b0b0b"],
-        "BG_BASE_PRIMARY": ["#0b0b0b"],
-        "BACKGROUND_SECONDARY": ["#141414"],
-        "CARD_SECONDARY_BG": ["#141414"],
-        "BG_BASE_SECONDARY": ["#141414"],
-        "BACKGROUND_SECONDARY_ALT": ["#1e1e1e"],
-        "BACKGROUND_TERTIARY": ["#262626"],
-        "BG_BASE_TERTIARY": ["#262626"],
-        "BACKGROUND_ACCENT": ["#2f2f2f"],
-        "BACKGROUND_FLOATING": ["#2f2f2f"],
-        "BACKGROUND_MOBILE_PRIMARY": ["#0b0b0b"],
-        "BACKGROUND_MOBILE_SECONDARY": ["#141414"],
-        "BACKGROUND_MESSAGE_HOVER": ["rgba(255, 255, 255, 0.04)"],
-        "BACKGROUND_MODIFIER_HOVER": ["rgba(255, 255, 255, 0.05)"],
-        "BACKGROUND_MODIFIER_ACTIVE": ["rgba(255, 255, 255, 0.06)"],
-        "BACKGROUND_MODIFIER_SELECTED": ["rgba(255, 255, 255, 0.08)"],
-        "BACKGROUND_MODIFIER_ACCENT": ["#262626"],
-        "BACKGROUND_MENTIONED": ["rgba(229, 28, 35, 0.15)"],
-        "BACKGROUND_MENTIONED_HOVER": ["#ff3030"],
-        "CHANNELTEXTAREA_BACKGROUND": ["#0f0f0f"],
-        "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#141414"],
-        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#262626"],
-        "REDESIGN_CHAT_INPUT_BACKGROUND": ["#141414"],
-        "REDESIGN_BUTTON_TERTIARY_BACKGROUND": ["#2f2f2f"],
-        "REDESIGN_BUTTON_SECONDARY_BORDER": ["#e51c23"],
-        "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": ["#f8f8f8"],
-        "REDESIGN_CHANNEL_NAME_TEXT": ["#FFFFFF"],
-        "CHANNELS_DEFAULT": ["#d1d1d1"],
-        "CHANNEL_ICON": ["#e51c23"],
-        "TEXT_PRIMARY": ["#FFFFFF"],
-        "TEXT_LINK": ["#ff3030"],
-        "THREAD_CHANNEL_SPINE": ["#ff3030"]
+        "TEXT_NORMAL": [
+            "#ec275f"
+        ],
+        "TEXT_SECONDARY": [
+            "#d28077"
+        ],
+        "TEXT_PRIMARY": [
+            "#ffffff"
+        ],
+        "TEXT_MUTED": [
+            "#f25477"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#ffdcdc"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#ff4d4d"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#ff6666"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#ec275f"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#1a1415"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#201a1b"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#2e2527"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#3c2a2b"
+        ],
+        "BG_BASE_PRIMARY": [
+            "#3c2a2b"
+        ],
+        "BG_BASE_SECONDARY": [
+            "#936d71"
+        ],
+        "BG_BASE_TERTIARY": [
+            "#ffdcdc"
+        ],
+        "BG_BACKDROP": [
+            "#281e1f80"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#2e2527"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#1a1415"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#3c2a2b"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#ec275f"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#3e2224"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#d28077"
+        ],
+        "TEXT_LINK": [
+            "#ec275f"
+        ],
+        "TEXT_DANGER": [
+            "#ff4d4d"
+        ],
+        "CHAT_BACKGROUND": [
+            "#1a1415"
+        ],
+        "MENTION_BACKGROUND": [
+            "#d4e0eeA6"
+        ],
+        "MENTION_FOREGROUND": [
+            "#ffdcdc"
+        ]
     },
     "rawColors": {
-        "PRIMARY_100": "#f8f8f8",
-        "PRIMARY_200": "#d1d1d1",
-        "PRIMARY_300": "#FFFFFF",
-        "PRIMARY_400": "#c7c7c7",
-        "PRIMARY_500": "#e51c23",
-        "PRIMARY_600": "#ff3030",
-        "PRIMARY_700": "#0b0b0b",
-        "PRIMARY_800": "#ffffff",
-        "PLUM_10": "#ffffff",
-        "PLUM_24": "#ff3030",
-        "PLUM_11": "#141414",
-        "PLUM_15": "#262626",
-        "PLUM_16": "#ff3030",
-        "PLUM_17": "#2f2f2f",
-        "PLUM_20": "#0b0b0b",
-        "PLUM_3": "#FFFFFF",
-        "PLUM_4": "#f8f8f8",
-        "PLUM_6": "#c7c7c7",
-        "BRAND_230": "#e51c23",
-        "BRAND_260": "#ff3030",
-        "BRAND_360": "#FFFFFF",
-        "BRAND_500": "#ff3030",
-        "BRAND_560": "#f8f8f8",
-        "RED_260": "#ff3030",
-        "ROLE_DEFAULT": "#c7c7c7",
-        "YELLOW_260": "#e5c890",
-        "GREEN_260": "#a6d189",
-        "GUILD_BOOSTING_PINK": "#ff3030",
-        "GUILD_BOOSTING_PURPLE": "#e51c23",
-        "BLUE_345": "#ff3030",
-        "BLUE_330": "#e51c23",
-        "WHITE_500": "#f8f8f8",
-        "WHITE_630": "#c7c7c7"
+        "BRAND_500": "#ff4d4d",
+        "PRIMARY_500": "#1a1415",
+        "RED_100": "#fef8f9",
+        "WHITE_500": "#ffffff",
+        "PLUM_1": "#d4e0ee",
+        "PLUM_3": "#ffdcdc",
+        "PLUM_15": "#ec275f",
+        "PLUM_16": "#2e2527"
+    },
+    "background": {
+        "blur": 0.5,
+        "url": "https://raw.githubusercontent.com/mysticentity/ThemeStrings/main/Sakura.png",
+        "alpha": 0.6
     },
     "plus": {
         "version": "0",
         "customOverlays": true,
         "icons": {
-            "ic_radio_circle_checked": "#e51c23",
-            "ic_radio_circle_checked__overlay": "#FFFFFF",
-            "ic_radio_square_24px": "#e51c23",
-            "ic_radio_square_checked_24px": "#e51c23",
-            "ic_radio_square_checked_24px__overlay": "#FFFFFF",
-            "ic_selection_checked_24px": "#e51c23",
-            "ic_selection_checked_24px__overlay": "#FFFFFF",
-            "StatusMobileOnline": "#a6d189",
-            "StatusIdle": "#e5c890",
-            "StatusDND": "#e51c23",
-            "StatusOffline": "#585666",
-            "StatusOnline": "#a6d189",
-            "StatusStreaming": "#ff3030",
-            "add": "#ff6666",
-            "close": "#e51c23",
-            "ic_chat_bubble_16px": "#ff4444",
-            "ic_settings": "#ff5555"
+            "add": "#d4e0ee",
+            "close": "#d4e0ee",
+            "ic_edit_24px": "#ff4d4d",
+            "ic_settings": "#ffdcdc",
+            "star": "#e7a56e",
+            "StatusOnline": "#ec275f",
+            "StatusIdle": "#e7a56e",
+            "StatusDND": "#ff4d4d",
+            "StatusOffline": "#1a1415"
         }
-    },
-    "background": {
-        "blur": 0.1,
-        "url": "https://raw.githubusercontent.com/Gansing/discord-stuff/main/redserenitybg.jpg",
-        "alpha": 0.4
     },
     "spec": 2
 }
