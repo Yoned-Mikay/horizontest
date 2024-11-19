@@ -15,7 +15,7 @@
         "TEXT_MUTED": ["#9C9C9C"],
         "INTERACTIVE_NORMAL": ["#8B4B9D"],
         "INTERACTIVE_HOVER": ["#8C55B3"],
-        "INTERACTIVE_ACTIVE": ["#A87BF3"],
+        "INTERACTIVE_ACTIVE": ["#ffffff"],
         "INTERACTIVE_MUTED": ["#ffffff"],
         "BACKGROUND_PRIMARY": ["#0F080F"],
         "CARD_PRIMARY_BG": ["#0F080F"],
