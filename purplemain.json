@@ -96,17 +96,17 @@
             "ic_radio_square_checked_24px__overlay": "#FFFFFF",
             "ic_selection_checked_24px": "#8961ba",
             "ic_selection_checked_24px__overlay": "#FFFFFF",
-            "StatusMobileOnline": "#e04ae8",
+            "StatusMobileOnline": "#d261d8",
             "StatusIdle": "#faeb64",
             "StatusDND": "#e33054",
             "StatusOffline": "#585666",
-            "StatusOnline": "#e04ae8",
+            "StatusOnline": "#d261d8",
             "StatusStreaming": "#6e16e0"
         }
     },
     "background": {
         "blur": 0.1,
-        "url": "https://raw.githubusercontent.com/Yoned-Mikay/horizontest/main/finalnicebg.jpg",
+        "url": "https://raw.githubusercontent.com/Yoned-Mikay/horizontest/main/IMG_0095.jpeg",
         "alpha": 0.4
     },
     "spec": 2
