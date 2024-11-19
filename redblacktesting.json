@@ -1,7 +1,7 @@
 {
-    "name": "Sakura Serenity",
-    "description": "A harmonious blend of vivid reds, serene pinks, and deep blacks inspired by Sakura Tree and Red Serenity.",
-    "version": "1.1.0",
+    "name": "Red Serenity",
+    "description": "A sleek red, grey, and black theme that exudes boldness and clarity.",
+    "version": "1.2.0",
     "authors": [
         {
             "name": ".Princeblueblood",
@@ -17,67 +17,67 @@
             "#ec275f"
         ],
         "TEXT_SECONDARY": [
-            "#d28077"
+            "#b0b0b0"
         ],
         "TEXT_PRIMARY": [
             "#ffffff"
         ],
         "TEXT_MUTED": [
-            "#f25477"
+            "#a6a6a6"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#ffdcdc"
+            "#6e6e6e"
         ],
         "INTERACTIVE_NORMAL": [
-            "#ff4d4d"
+            "#ec275f"
         ],
         "INTERACTIVE_HOVER": [
-            "#ff6666"
+            "#ff4d4d"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#ec275f"
+            "#a81e46"
         ],
         "BACKGROUND_PRIMARY": [
-            "#1a1415"
+            "#1a1a1a"
         ],
         "BACKGROUND_SECONDARY": [
-            "#201a1b"
+            "#2e2e2e"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#2e2527"
+            "#383838"
         ],
         "BACKGROUND_TERTIARY": [
-            "#3c2a2b"
+            "#4d4d4d"
         ],
         "BG_BASE_PRIMARY": [
-            "#3c2a2b"
+            "#4d4d4d"
         ],
         "BG_BASE_SECONDARY": [
-            "#936d71"
+            "#2e2e2e"
         ],
         "BG_BASE_TERTIARY": [
-            "#ffdcdc"
+            "#1a1a1a"
         ],
         "BG_BACKDROP": [
-            "#281e1f80"
+            "#1a1a1a"
         ],
         "BACKGROUND_ACCENT": [
-            "#2e2527"
+            "#2e2e2e"
         ],
         "BACKGROUND_FLOATING": [
-            "#1a1415"
+            "#1a1a1a"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#3c2a2b"
+            "#4d4d4d"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#ec275f"
+            "#3e3e3e"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#3e2224"
+            "#5c5c5c"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#d28077"
+            "#ec275f"
         ],
         "TEXT_LINK": [
             "#ec275f"
@@ -86,43 +86,43 @@
             "#ff4d4d"
         ],
         "CHAT_BACKGROUND": [
-            "#1a1415"
+            "#1a1a1a"
         ],
         "MENTION_BACKGROUND": [
-            "#d4e0eeA6"
+            "#5c5c5c"
         ],
         "MENTION_FOREGROUND": [
-            "#ffdcdc"
+            "#ffffff"
         ]
     },
     "rawColors": {
-        "BRAND_500": "#ff4d4d",
-        "PRIMARY_500": "#1a1415",
+        "BRAND_500": "#ec275f",
+        "PRIMARY_500": "#1a1a1a",
         "RED_100": "#fef8f9",
         "WHITE_500": "#ffffff",
-        "PLUM_1": "#d4e0ee",
-        "PLUM_3": "#ffdcdc",
-        "PLUM_15": "#ec275f",
-        "PLUM_16": "#2e2527"
+        "PLUM_1": "#ec275f",
+        "PLUM_3": "#4d4d4d",
+        "PLUM_15": "#2e2e2e",
+        "PLUM_16": "#6e6e6e"
     },
     "background": {
         "blur": 0.5,
-        "url": "https://raw.githubusercontent.com/mysticentity/ThemeStrings/main/Sakura.png",
-        "alpha": 0.6
+        "url": "https://raw.githubusercontent.com/mysticentity/ThemeStrings/main/RedSerenity.png",
+        "alpha": 0.7
     },
     "plus": {
         "version": "0",
         "customOverlays": true,
         "icons": {
-            "add": "#d4e0ee",
-            "close": "#d4e0ee",
-            "ic_edit_24px": "#ff4d4d",
-            "ic_settings": "#ffdcdc",
-            "star": "#e7a56e",
+            "add": "#ffffff",
+            "close": "#ec275f",
+            "ic_edit_24px": "#ec275f",
+            "ic_settings": "#a6a6a6",
+            "star": "#b0b0b0",
             "StatusOnline": "#ec275f",
-            "StatusIdle": "#e7a56e",
+            "StatusIdle": "#b0b0b0",
             "StatusDND": "#ff4d4d",
-            "StatusOffline": "#1a1415"
+            "StatusOffline": "#1a1a1a"
         }
     },
     "spec": 2
