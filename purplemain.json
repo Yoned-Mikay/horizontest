@@ -96,12 +96,12 @@
             "ic_radio_square_checked_24px__overlay": "#FFFFFF",
             "ic_selection_checked_24px": "#8961ba",
             "ic_selection_checked_24px__overlay": "#FFFFFF",
-            "StatusMobileOnline": "#a6d189",
-            "StatusIdle": "#e5c890",
-            "StatusDND": "#e78284",
+            "StatusMobileOnline": "#e04ae8",
+            "StatusIdle": "#faeb64",
+            "StatusDND": "#e33054",
             "StatusOffline": "#585666",
-            "StatusOnline": "#a6d189",
-            "StatusStreaming": "#ca9ee6"
+            "StatusOnline": "#e04ae8",
+            "StatusStreaming": "#6e16e0"
         }
     },
     "background": {
