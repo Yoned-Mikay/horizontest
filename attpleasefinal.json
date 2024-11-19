@@ -1,0 +1,134 @@
+{
+    "name": "Serene Horizon",
+    "description": "An epic scenery with serene colors.",
+    "version": "2.1.0",
+    "authors": [
+        {
+            "name": "Madhav",
+            "id": "757530324686340197"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": ["#EFEFEF"],
+        "HEADER_SECONDARY": ["#CACACA"],
+        "TEXT_NORMAL": ["#F9F9F9"],
+        "TEXT_MUTED": ["#B9B9B9"],
+        "INTERACTIVE_NORMAL": ["#9A6AC5"],
+        "INTERACTIVE_HOVER": ["#A176D0"],
+        "INTERACTIVE_ACTIVE": ["#C37FE2"],
+        "INTERACTIVE_MUTED": ["#B49ADB"],
+        "BACKGROUND_PRIMARY": ["#1A0B1A"],
+        "CARD_PRIMARY_BG": ["#1A0B1A"],
+        "BG_BASE_PRIMARY": ["#1A0B1A"],
+        "BACKGROUND_SECONDARY": ["#221122"],
+        "CARD_SECONDARY_BG": ["#261526"],
+        "BG_BASE_SECONDARY": ["#221122"],
+        "BACKGROUND_SECONDARY_ALT": ["#2E1B2E"],
+        "BACKGROUND_TERTIARY": ["#331F33"],
+        "BG_BASE_TERTIARY": ["#301D30"],
+        "BACKGROUND_ACCENT": ["#3B253B"],
+        "BACKGROUND_MOBILE_PRIMARY": ["#1A0B1A"],
+        "BACKGROUND_MOBILE_SECONDARY": ["#261526"],
+        "BACKGROUND_MESSAGE_HOVER": ["rgba(255, 255, 255, 0.03)"],
+        "BACKGROUND_MODIFIER_HOVER": ["rgba(255, 255, 255, 0.05)"],
+        "BACKGROUND_MODIFIER_ACTIVE": ["rgba(255, 255, 255, 0.07)"],
+        "BACKGROUND_MODIFIER_SELECTED": ["rgba(255, 255, 255, 0.09)"],
+        "BACKGROUND_MODIFIER_ACCENT": ["#331F33"],
+        "BACKGROUND_MENTIONED": ["rgba(195, 127, 226, 0.15)"],
+        "BACKGROUND_MENTIONED_HOVER": ["#A176D0"],
+        "CHANNELTEXTAREA_BACKGROUND": ["#161016"],
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#261526"],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#331F33"],
+        "REDESIGN_CHAT_INPUT_BACKGROUND": ["#2E1B2E"],
+        "REDESIGN_BUTTON_TERTIARY_BACKGROUND": ["#3B253B"],
+        "REDESIGN_BUTTON_SECONDARY_BORDER": ["#9A6AC5"],
+        "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": ["#EFEFEF"],
+        "REDESIGN_CHANNEL_NAME_TEXT": ["#F9F9F9"],
+        "CHANNELS_DEFAULT": ["#CACACA"],
+        "CHANNEL_ICON": ["#9A6AC5"],
+        "TEXT_PRIMARY": ["#F9F9F9"],
+        "TEXT_LINK": ["#C37FE2"],
+        "THREAD_CHANNEL_SPINE": ["#A176D0"]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#EFEFEF",
+        "PRIMARY_200": "#CACACA",
+        "PRIMARY_300": "#F9F9F9",
+        "PRIMARY_400": "#B9B9B9",
+        "PRIMARY_500": "#9A6AC5",
+        "PRIMARY_600": "#C37FE2",
+        "PRIMARY_700": "#1A0B1A",
+        "PRIMARY_800": "#FFFFFF",
+        "PLUM_10": "#A176D0",
+        "PLUM_24": "#C37FE2",
+        "PLUM_11": "#221122",
+        "PLUM_15": "#301D30",
+        "PLUM_16": "#C37FE2",
+        "PLUM_17": "#3B253B",
+        "PLUM_20": "#1A0B1A",
+        "PLUM_3": "#F9F9F9",
+        "PLUM_4": "#EFEFEF",
+        "PLUM_6": "#B9B9B9",
+        "BRAND_230": "#9A6AC5",
+        "BRAND_260": "#C37FE2",
+        "BRAND_360": "#F9F9F9",
+        "BRAND_500": "#C37FE2",
+        "BRAND_560": "#EFEFEF",
+        "RED_260": "#C37FE2",
+        "ROLE_DEFAULT": "#B9B9B9",
+        "YELLOW_260": "#E8CFA8",
+        "GREEN_260": "#B2E1A0",
+        "GUILD_BOOSTING_PINK": "#C37FE2",
+        "GUILD_BOOSTING_PURPLE": "#9A6AC5",
+        "BLUE_345": "#C37FE2",
+        "BLUE_330": "#9A6AC5",
+        "WHITE_500": "#EFEFEF",
+        "WHITE_630": "#B9B9B9"
+    },
+    "plus": {
+        "version": "1",
+        "customOverlays": true,
+        "icons": {
+            "ic_radio_circle_checked": "#9A6AC5",
+            "ic_radio_circle_checked__overlay": "#FFFFFF",
+            "ic_radio_square_24px": "#9A6AC5",
+            "ic_radio_square_checked_24px": "#9A6AC5",
+            "ic_radio_square_checked_24px__overlay": "#FFFFFF",
+            "ic_selection_checked_24px": "#9A6AC5",
+            "ic_selection_checked_24px__overlay": "#FFFFFF",
+            "StatusMobileOnline": "#B2E1A0",
+            "StatusIdle": "#E8CFA8",
+            "StatusDND": "#E883A7",
+            "StatusOffline": "#635063",
+            "StatusOnline": "#B2E1A0",
+            "StatusStreaming": "#D1A0DC"
+        }
+    },
+    "background": {
+        "blur": 0.1,
+        "url": "https://raw.githubusercontent.com/Yoned-Mikay/horizontest/main/finalnicebg.jpg",
+        "alpha": 0.4
+    },
+    "animations": {
+        "hover": {
+            "card": "float",
+            "button": "pulse"
+        },
+        "click": {
+            "button": "ripple"
+        }
+    },
+    "typography": {
+        "fontPrimary": "'Lato', sans-serif",
+        "fontSecondary": "'Roboto', sans-serif",
+        "sizeNormal": "14px",
+        "sizeLarge": "16px",
+        "sizeSmall": "12px",
+        "textShadow": "0px 1px 3px rgba(0, 0, 0, 0.5)"
+    },
+    "shadows": {
+        "card": "0px 4px 6px rgba(0, 0, 0, 0.2)",
+        "button": "0px 2px 4px rgba(0, 0, 0, 0.3)"
+    },
+    "spec": 2
+}
