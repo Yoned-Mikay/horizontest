@@ -1,11 +1,11 @@
 {
-    "name": "Serene Horizon",
-    "description": "A serene, horizon-inspired theme with calming colors.",
+    "name": "Deep Waters",
+    "description": "Experience soothing blues & bubbles, inspired by the Wii Homebrew Channel, for a nostalgic & calming chat vibe.",
     "version": "2.0.0",
     "authors": [
         {
-            "name": "YourName",
-            "id": "YourID"
+            "name": "Cyclone",
+            "id": "605791172530536449"
         }
     ],
     "semanticColors": {
@@ -109,6 +109,11 @@
             "StatusOnline": "#7CA0CC",
             "StatusStreaming": "#627D8A"
         }
+    },
+    "background": {
+        "blur": 0.1,
+        "url": "https://raw.githubusercontent.com/Yoned-Mikay/horizontest/main/new.png",
+        "alpha": 0.4
     },
     "spec": 2
 }
