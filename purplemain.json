@@ -1,7 +1,7 @@
 {
     "name": "Serene Horizon",
     "description": "An epic scenery with serene colors.",
-    "version": "2.0.1",
+    "version": "2.1.0",
     "authors": [
         {
             "name": "Madhav",
@@ -13,7 +13,7 @@
         "HEADER_SECONDARY": ["#c8c8c8"],
         "TEXT_NORMAL": ["#FBFBFB"],
         "TEXT_MUTED": ["#b1b1b1"],
-        "INTERACTIVE_NORMAL": ["#8961ba"],
+        "INTERACTIVE_NORMAL": ["#ffffff"],
         "INTERACTIVE_HOVER": ["#955ac4"],
         "INTERACTIVE_ACTIVE": ["#d261d8"],
         "INTERACTIVE_MUTED": ["#a99be3"],
