@@ -9,12 +9,12 @@
         }
     ],
     "semanticColors": {
-        "HEADER_PRIMARY": ["#D1D1D1"],
-        "HEADER_SECONDARY": ["#A2A2A2"],
-        "TEXT_NORMAL": ["#E0E0E0"],
-        "TEXT_MUTED": ["#9C9C9C"],
-        "INTERACTIVE_NORMAL": ["#8B4B9D"],
-        "INTERACTIVE_HOVER": ["#8C55B3"],
+        "HEADER_PRIMARY": ["#ffffff"],
+        "HEADER_SECONDARY": ["#ffffff"],
+        "TEXT_NORMAL": ["#ffffff"],
+        "TEXT_MUTED": ["#ffffff"],
+        "INTERACTIVE_NORMAL": ["#ffffff"],
+        "INTERACTIVE_HOVER": ["#ffffff"],
         "INTERACTIVE_ACTIVE": ["#ffffff"],
         "INTERACTIVE_MUTED": ["#ffffff"],
         "BACKGROUND_PRIMARY": ["#ffffff"],
