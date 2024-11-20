@@ -1,80 +1,56 @@
 {
-    "name": "Shadow Ember",
-    "description": "A glowing ember theme with a sleek shadowy backdrop.",
-    "version": "1.0",
-    "authors": [
-        {
-            "name": "ChatGPT Designer",
-            "id": "000000000000000001"
-        }
-    ],
-    "semanticColors": {
-        "HEADER_PRIMARY": ["#FF5722"], 
-        "HEADER_SECONDARY": ["#FF784E"], 
-        "TEXT_NORMAL": ["#FF7043"], 
-        "TEXT_MUTED": ["#FF8A65"], 
-        "INTERACTIVE_NORMAL": ["#FF5722"], 
-        "INTERACTIVE_HOVER": ["#FF7043"], 
-        "INTERACTIVE_ACTIVE": ["#FF3D00"], 
-        "BACKGROUND_PRIMARY": ["#121212"], 
-        "BACKGROUND_SECONDARY": ["#1A1A1A"], 
-        "BACKGROUND_TERTIARY": ["#212121"], 
-        "BACKGROUND_ACCENT": ["#331A1A"], 
-        "BACKGROUND_MODIFIER_HOVER": ["#262626"], 
-        "BACKGROUND_MODIFIER_ACTIVE": ["#2B2B2B"], 
-        "BACKGROUND_MODIFIER_SELECTED": ["#4D1F1F"], 
-        "CHANNELTEXTAREA_BACKGROUND": ["#181818"], 
-        "REDESIGN_CHAT_INPUT_BACKGROUND": ["#1F1F1F"], 
-        "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": ["#FF7043"], 
-        "CHANNELS_DEFAULT": ["#FF5722"], 
-        "TEXT_PRIMARY": ["#FF7043"], 
-        "TEXT_LINK": ["#FF784E"], 
-        "THREAD_CHANNEL_SPINE": ["#FF3D00"]
-    },
-    "rawColors": {
-        "PRIMARY_100": "#FFAB91",
-        "PRIMARY_200": "#FF7043",
-        "PRIMARY_300": "#FF5722",
-        "PRIMARY_400": "#E64A19",
-        "PRIMARY_500": "#BF360C",
-        "PRIMARY_600": "#8C2A0A",
-        "SECONDARY_100": "#1A1A1A",
-        "SECONDARY_200": "#121212",
-        "ACCENT_100": "#FF784E",
-        "ACCENT_200": "#FF5722"
-    },
-    "background": {
-        "blur": 0.15,
-        "url": "https://i.imgur.com/YLkCjU8.jpg",
-        "alpha": 0.2
-    },
-    "icons": {
-        "StatusOnline": "#FF5722",
-        "StatusIdle": "#FF8A65",
-        "StatusDND": "#FF3D00",
-        "StatusOffline": "#1A1A1A",
-        "ic_radio_circle_checked": "#FF7043"
-    },
-    "animations": {
-        "hover": {
-            "button": "glow",
-            "card": "scale"
-        },
-        "click": {
-            "button": "burst"
-        }
-    },
-    "typography": {
-        "fontPrimary": "'Poppins', sans-serif",
-        "fontSecondary": "'Montserrat', sans-serif",
-        "sizeNormal": "14px",
-        "sizeLarge": "16px",
-        "sizeSmall": "12px",
-        "textShadow": "0px 1px 2px rgba(255, 87, 34, 0.6)"
-    },
-    "shadows": {
-        "card": "0px 4px 8px rgba(0, 0, 0, 0.6)",
-        "button": "0px 2px 6px rgba(255, 87, 34, 0.5)"
-    },
-    "spec": 2
+  "name": "Vamp iPhone",
+  "version": "2.0",
+  "description": "Vamp Anime Girl Theme (Updated for Vendetta/Pyoncord/Bunny/Revenge)",
+  "authors": [
+    {
+      "name": "melonwer",
+      "id": "848518188195250176"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": "#FBFBFB",
+    "HEADER_SECONDARY": "#B6B6B6",
+    "TEXT_NORMAL": "#FBFBFB",
+    "TEXT_MUTED": "#B6B6B6",
+    "INTERACTIVE_NORMAL": "#8f150a",
+    "INTERACTIVE_HOVER": "#6b0000",
+    "INTERACTIVE_ACTIVE": "#d62515",
+    "INTERACTIVE_MUTED": "#747474",
+    "BACKGROUND_PRIMARY": "#171717",
+    "BACKGROUND_SECONDARY": "#171717",
+    "BACKGROUND_TERTIARY": "#171717",
+    "BACKGROUND_ACCENT": "#171717",
+    "BACKGROUND_FLOATING": "#171717",
+    "BACKGROUND_MODIFIER_HOVER": "#1a1926",
+    "BACKGROUND_MODIFIER_ACTIVE": "#542ca3",
+    "BACKGROUND_MODIFIER_SELECTED": "#171717",
+    "SCROLLBAR_THIN_THUMB": "#292929",
+    "SCROLLBAR_THIN_TRACK": "transparent",
+    "CHANNELTEXTAREA_BACKGROUND": "transparent",
+    "CHANNELS_DEFAULT": "#ed2828",
+    "TEXT_LINK": "#d62515",
+    "CHANNEL_ICON": "#d62515"
+  },
+  "rawColors": {
+    "PRIMARY_DARK": "#171717",
+    "PRIMARY_LIGHT": "#FBFBFB",
+    "EMPHASIS": "#d62515",
+    "HOVER_ACCENT": "#6b0000",
+    "ACCENT_ACTIVE": "#542ca3",
+    "SECONDARY_TEXT": "#B6B6B6"
+  },
+  "background": {
+    "blur": 0.1,
+    "url": "https://github.com/melonwer/themes/blob/1bad8fed07f5c6e8af52302ead6053fd729cec90/vampgirlip.PNG?raw=true",
+    "alpha": 1.0
+  },
+  "typography": {
+    "fontPrimary": "'Roboto', sans-serif",
+    "fontSecondary": "'Arial', sans-serif",
+    "sizeNormal": "14px",
+    "sizeSmall": "12px",
+    "sizeLarge": "16px"
+  },
+  "spec": 2
 }
