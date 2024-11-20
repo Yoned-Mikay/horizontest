@@ -1,129 +1,107 @@
 {
-    "name": "Red Serenity",
-    "description": "A sleek red, grey, and black theme that exudes boldness and clarity.",
-    "version": "1.2.0",
+    "name": "Blood Black",
+    "description": "An intense theme with blood red and deep black tones for a dramatic effect.",
+    "version": "2.1.0",
     "authors": [
-        {
-            "name": ".Princeblueblood",
-            "id": "131929165292240896"
-        },
         {
             "name": "Cyclone",
             "id": "605791172530536449"
         }
     ],
     "semanticColors": {
-        "TEXT_NORMAL": [
-            "#ec275f"
-        ],
-        "TEXT_SECONDARY": [
-            "#b0b0b0"
-        ],
-        "TEXT_PRIMARY": [
-            "#ffffff"
-        ],
-        "TEXT_MUTED": [
-            "#a6a6a6"
-        ],
-        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#6e6e6e"
-        ],
-        "INTERACTIVE_NORMAL": [
-            "#ec275f"
-        ],
-        "INTERACTIVE_HOVER": [
-            "#ff4d4d"
-        ],
-        "INTERACTIVE_ACTIVE": [
-            "#a81e46"
-        ],
-        "BACKGROUND_PRIMARY": [
-            "#1a1a1a"
-        ],
-        "BACKGROUND_SECONDARY": [
-            "#2e2e2e"
-        ],
-        "BACKGROUND_SECONDARY_ALT": [
-            "#383838"
-        ],
-        "BACKGROUND_TERTIARY": [
-            "#4d4d4d"
-        ],
-        "BG_BASE_PRIMARY": [
-            "#4d4d4d"
-        ],
-        "BG_BASE_SECONDARY": [
-            "#2e2e2e"
-        ],
-        "BG_BASE_TERTIARY": [
-            "#1a1a1a"
-        ],
-        "BG_BACKDROP": [
-            "#1a1a1a"
-        ],
-        "BACKGROUND_ACCENT": [
-            "#2e2e2e"
-        ],
-        "BACKGROUND_FLOATING": [
-            "#1a1a1a"
-        ],
-        "BACKGROUND_MOBILE_PRIMARY": [
-            "#4d4d4d"
-        ],
-        "BACKGROUND_MESSAGE_HOVER": [
-            "#3e3e3e"
-        ],
-        "BACKGROUND_MODIFIER_HOVER": [
-            "#5c5c5c"
-        ],
-        "BACKGROUND_MODIFIER_SELECTED": [
-            "#ec275f"
-        ],
-        "TEXT_LINK": [
-            "#ec275f"
-        ],
-        "TEXT_DANGER": [
-            "#ff4d4d"
-        ],
-        "CHAT_BACKGROUND": [
-            "#1a1a1a"
-        ],
-        "MENTION_BACKGROUND": [
-            "#5c5c5c"
-        ],
-        "MENTION_FOREGROUND": [
-            "#ffffff"
-        ]
+        "HEADER_PRIMARY": ["#ff0000"],
+        "HEADER_SECONDARY": ["#aa0000"],
+        "TEXT_NORMAL": ["#ff1111"],
+        "TEXT_MUTED": ["#990000"],
+        "INTERACTIVE_NORMAL": ["#cc0000"],
+        "INTERACTIVE_HOVER": ["#ff2222"],
+        "INTERACTIVE_ACTIVE": ["#ffffff"],
+        "INTERACTIVE_MUTED": ["#770000"],
+        "BACKGROUND_PRIMARY": ["#0a0a0a"],
+        "CARD_PRIMARY_BG": ["#0a0a0a"],
+        "BG_BASE_PRIMARY": ["#0a0a0a"],
+        "BACKGROUND_SECONDARY": ["#0d0d0d"],
+        "CARD_SECONDARY_BG": ["#0d0d0d"],
+        "BG_BASE_SECONDARY": ["#0d0d0d"],
+        "BACKGROUND_SECONDARY_ALT": ["#121212"],
+        "BACKGROUND_TERTIARY": ["#141414"],
+        "BG_BASE_TERTIARY": ["#141414"],
+        "BACKGROUND_ACCENT": ["#1a1a1a"],
+        "BACKGROUND_MOBILE_PRIMARY": ["#0a0a0a"],
+        "BACKGROUND_MOBILE_SECONDARY": ["#0d0d0d"],
+        "BACKGROUND_MESSAGE_HOVER": ["rgba(255, 0, 0, 0.05)"],
+        "BACKGROUND_MODIFIER_HOVER": ["rgba(255, 0, 0, 0.07)"],
+        "BACKGROUND_MODIFIER_ACTIVE": ["rgba(255, 0, 0, 0.1)"],
+        "BACKGROUND_MODIFIER_SELECTED": ["rgba(255, 0, 0, 0.15)"],
+        "BACKGROUND_MODIFIER_ACCENT": ["#141414"],
+        "BACKGROUND_MENTIONED": ["rgba(255, 0, 0, 0.2)"],
+        "BACKGROUND_MENTIONED_HOVER": ["#ff2222"],
+        "CHANNELTEXTAREA_BACKGROUND": ["#0a0a0a"],
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#0d0d0d"],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#141414"],
+        "REDESIGN_CHAT_INPUT_BACKGROUND": ["#0d0d0d"],
+        "REDESIGN_BUTTON_TERTIARY_BACKGROUND": ["#1a1a1a"],
+        "REDESIGN_BUTTON_SECONDARY_BORDER": ["#cc0000"],
+        "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": ["#ff1111"],
+        "REDESIGN_CHANNEL_NAME_TEXT": ["#ff1111"],
+        "CHANNELS_DEFAULT": ["#990000"],
+        "CHANNEL_ICON": ["#cc0000"],
+        "TEXT_PRIMARY": ["#ff1111"],
+        "TEXT_LINK": ["#ff4444"],
+        "THREAD_CHANNEL_SPINE": ["#ff2222"]
     },
     "rawColors": {
-        "BRAND_500": "#ec275f",
-        "PRIMARY_500": "#1a1a1a",
-        "RED_100": "#fef8f9",
-        "WHITE_500": "#ffffff",
-        "PLUM_1": "#ec275f",
-        "PLUM_3": "#4d4d4d",
-        "PLUM_15": "#2e2e2e",
-        "PLUM_16": "#6e6e6e"
-    },
-    "background": {
-        "blur": 0.5,
-        "url": "https://raw.githubusercontent.com/mysticentity/ThemeStrings/main/RedSerenity.png",
-        "alpha": 0.7
+        "PRIMARY_100": "#ff1111",
+        "PRIMARY_200": "#aa0000",
+        "PRIMARY_300": "#990000",
+        "PRIMARY_400": "#cc0000",
+        "PRIMARY_500": "#ff0000",
+        "PRIMARY_600": "#ff2222",
+        "PRIMARY_700": "#0a0a0a",
+        "PRIMARY_800": "#ffffff",
+        "PLUM_10": "#990000",
+        "PLUM_24": "#ff2222",
+        "PLUM_11": "#0d0d0d",
+        "PLUM_15": "#141414",
+        "PLUM_16": "#ff4444",
+        "PLUM_17": "#1a1a1a",
+        "PLUM_20": "#0a0a0a",
+        "PLUM_3": "#ff1111",
+        "PLUM_4": "#ff0000",
+        "PLUM_6": "#990000",
+        "BRAND_230": "#cc0000",
+        "BRAND_260": "#ff4444",
+        "BRAND_360": "#ff1111",
+        "BRAND_500": "#ff2222",
+        "BRAND_560": "#ff0000",
+        "RED_260": "#ff4444",
+        "ROLE_DEFAULT": "#990000",
+        "YELLOW_260": "#e5c890",
+        "GREEN_260": "#a6d189",
+        "GUILD_BOOSTING_PINK": "#ff2222",
+        "GUILD_BOOSTING_PURPLE": "#cc0000",
+        "BLUE_345": "#ff4444",
+        "BLUE_330": "#cc0000",
+        "WHITE_500": "#ff0000",
+        "WHITE_630": "#990000"
     },
     "plus": {
         "version": "0",
         "customOverlays": true,
         "icons": {
-            "add": "#ffffff",
-            "close": "#ec275f",
-            "ic_edit_24px": "#ec275f",
-            "ic_settings": "#a6a6a6",
-            "star": "#b0b0b0",
-            "StatusOnline": "#ec275f",
-            "StatusIdle": "#b0b0b0",
-            "StatusDND": "#ff4d4d",
-            "StatusOffline": "#1a1a1a"
+            "ic_radio_circle_checked": "#cc0000",
+            "ic_radio_circle_checked__overlay": "#ffffff",
+            "ic_radio_square_24px": "#cc0000",
+            "ic_radio_square_checked_24px": "#cc0000",
+            "ic_radio_square_checked_24px__overlay": "#ffffff",
+            "ic_selection_checked_24px": "#cc0000",
+            "ic_selection_checked_24px__overlay": "#ffffff",
+            "StatusMobileOnline": "#ff0000",
+            "StatusIdle": "#aa0000",
+            "StatusDND": "#770000",
+            "StatusOffline": "#330000",
+            "StatusOnline": "#ff0000",
+            "StatusStreaming": "#660000"
         }
-    },
-    "spec": 2
+    }
 }
