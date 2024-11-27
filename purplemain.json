@@ -1,6 +1,6 @@
 {
-    "name": "Purple Testing",
-    "description": "Testing Area",
+    "name": "TESTING PURPLE",
+    "description": "TESTING PURPLE",
     "version": "2.1.0",
     "authors": [
         {
@@ -96,17 +96,17 @@
             "ic_radio_square_checked_24px__overlay": "#FFFFFF",
             "ic_selection_checked_24px": "#8961ba",
             "ic_selection_checked_24px__overlay": "#FFFFFF",
-            "StatusMobileOnline": "#d261d8",
+            "StatusMobileOnline": "#e04ae8",
             "StatusIdle": "#faeb64",
             "StatusDND": "#e33054",
             "StatusOffline": "#585666",
-            "StatusOnline": "#d261d8",
+            "StatusOnline": "#e04ae8",
             "StatusStreaming": "#6e16e0"
         }
     },
     "background": {
         "blur": 0.1,
-        "url": "https://raw.githubusercontent.com/Yoned-Mikay/horizontest/main/IMG_0093.jpeg",
+        "url": "https://raw.githubusercontent.com/Gansing/discord-stuff/main/purplebubbles.jpg",
         "alpha": 0.4
     },
     "spec": 2
